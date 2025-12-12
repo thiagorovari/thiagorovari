@@ -1,6 +1,6 @@
 # Thiago Rovari
 ### Graduando em Engenharia de Computação pela Universidade Federal de Itajubá.
- São Paulo - Brasil
+### São Paulo - Brasil
 
 
  ## Linguagens e Ferramentas
