@@ -1,9 +1,9 @@
-## Thiago Rovari
-# Graduando em Engenharia de Computação pela Universidade Federal de Itajubá.
-# São Paulo - Brasil
+# Thiago Rovari
+### Graduando em Engenharia de Computação pela Universidade Federal de Itajubá.
+ São Paulo - Brasil
 
 
-- Linguagens e Ferramentas
+ ## Linguagens e Ferramentas
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40"/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40"/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" height="40" />
