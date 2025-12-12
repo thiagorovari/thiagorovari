@@ -1,6 +1,6 @@
 ## Hi there 👋
 - 🔭 I’m currently working on ...
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40"/>
           
 <!--
 **thiagorovari/thiagorovari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
